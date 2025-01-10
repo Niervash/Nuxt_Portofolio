@@ -156,37 +156,37 @@
             href="#"
             class="mx-4 max-w-[120px] py-4 opacity-60 grayscale transition duration-500 hover:opacity-100 hover:grayscale-0 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/img/react.svg" alt="TypeScript" />
+            <img src="../assets/img/react.svg" alt="react" />
           </a>
           <a
             href="#"
             class="mx-4 max-w-[120px] py-4 opacity-60 grayscale transition duration-500 hover:opacity-100 hover:grayscale-0 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/img/js.svg" alt="HTML" />
+            <img :src="require('~/assets/img/react.svg')" />
           </a>
           <a
             href="#"
             class="mx-4 max-w-[120px] py-4 opacity-60 grayscale transition duration-500 hover:opacity-100 hover:grayscale-0 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/img/tailwind.svg" alt="CSS" />
+            <img src="../assets/img/tailwind.svg" alt="tailwind" />
           </a>
           <a
             href="#"
             class="mx-4 max-w-[120px] py-4 opacity-60 grayscale transition duration-500 hover:opacity-100 hover:grayscale-0 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/img/Python.svg" alt="JavaScript" />
+            <img src="../assets/img/Python.svg" alt="Python" />
           </a>
           <a
             href="#"
             class="mx-4 max-w-[120px] py-4 opacity-60 grayscale transition duration-500 hover:opacity-100 hover:grayscale-0 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/img/tensorflow.svg" alt="TypeScript" />
+            <img src="../assets/img/tensorflow.svg" alt="tensorflow" />
           </a>
           <a
             href="#"
             class="mx-4 max-w-[120px] py-4 opacity-60 grayscale transition duration-500 hover:opacity-100 hover:grayscale-0 lg:mx-6 xl:mx-8"
           >
-            <img src="../assets/img/tableau.svg" alt="TypeScript" />
+            <img src="../assets/img/tableau.svg" alt="tableau" />
           </a>
         </div>
       </div>
